@@ -4,7 +4,11 @@ import java.util.Scanner;
 // execution to find the lines of code that produce incorrect or unexpected results.
 //You are given a program (existing source code) that prints the next n odd numbers (starting from 1) and on the last
 // row, prints the sum of them.
+
+//Example
+
 //Input: 5
+
 //Output : 
 //1
 //3
