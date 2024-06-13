@@ -11,14 +11,14 @@ import java.util.Scanner;
 // Calculate his rage expenses for renewing his gaming equipment.
 
 //Input / Constraints
-//•	On the first input line - lost games count – integer in the range [0, 1000].
-//•	On the second line – headset price - the floating-point number in the range [0, 1000].
-//•	On the third line – mouse price - the floating-point number in the range [0, 1000].
-//•	On the fourth line – keyboard price - the floating-point number in the range [0, 1000].
-//•	On the fifth line – display price - the floating-point number in the range [0, 1000].
+//On the first input line - lost games count – integer in the range [0, 1000].
+//On the second line – headset price - the floating-point number in the range [0, 1000].
+//On the third line – mouse price - the floating-point number in the range [0, 1000].
+//On the fourth line – keyboard price - the floating-point number in the range [0, 1000].
+//On the fifth line – display price - the floating-point number in the range [0, 1000].
 
 //Output
-//•	As output you must print Peter's total expenses: "Rage expenses: {expenses} lv."
+//As output you must print Peter's total expenses: "Rage expenses: {expenses} lv."
 
 //Example
 
