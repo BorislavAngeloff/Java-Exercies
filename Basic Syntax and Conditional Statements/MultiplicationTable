@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Multiplication Table
+//MultiplicationTable
 
 //You will receive an integer as input from the console. Print the 10 times table for this integer.
 
