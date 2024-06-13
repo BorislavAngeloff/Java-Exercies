@@ -3,6 +3,7 @@ import java.util.Scanner;
 //Multiplication Table
 
 //You will receive an integer as input from the console. Print the 10 times table for this integer.
+
 //Example :
 
 //Input: 5
