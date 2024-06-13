@@ -11,20 +11,20 @@ import java.util.Scanner;
 
 //Input / Constraints
 //The input data should be read from the console. It will consist of exactly 5 lines:
-//•	The amount of money George Lucas has – the floating-point number in the range [0.00…1,000.00].
-//•	The count of students – integer in the range [0…100].
-//•	The price of lightsabers for a single saber – the floating-point number in the range [0.00…100.00].
-//•	The price of robes for a single robe – the floating-point number in the range [0.00…100.00].
-//•	The price of belts for a single belt – the floating-point number in the range [0.00…100.00].
+//The amount of money George Lucas has – the floating-point number in the range [0.00…1,000.00].
+//The count of students – integer in the range [0…100].
+//The price of lightsabers for a single saber – the floating-point number in the range [0.00…100.00].
+//The price of robes for a single robe – the floating-point number in the range [0.00…100.00].
+//The price of belts for a single belt – the floating-point number in the range [0.00…100.00].
 //The input data will always be valid. There is no need to check it explicitly.
 
 //Output
 //The output should be printed on the console.
-//•	If the calculated price of the equipment is less or equal to the money George Lucas has:
+//If the calculated price of the equipment is less or equal to the money George Lucas has:
 //"The money is enough - it would cost {the cost of the equipment}lv."
-//•	If the calculated price of the equipment is more than the money George Lucas has:
+//If the calculated price of the equipment is more than the money George Lucas has:
 // "George Lucas will need {neededMoney}lv more."
-//•	All prices must be rounded to two digits after the decimal point.
+//All prices must be rounded to two digits after the decimal point.
 
 //Example
 
