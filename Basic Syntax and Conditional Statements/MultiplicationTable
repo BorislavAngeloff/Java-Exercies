@@ -22,7 +22,7 @@ import java.util.Scanner;
 //Print every row of the table in the following format:
 //{theInteger} X {times} = {product}
 //Constraints
-//•	The integer will be in the interval [1…100]
+//•The integer will be in the interval [1…100]
 
 public class MultiplicationTable {
 
